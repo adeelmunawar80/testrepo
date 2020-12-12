@@ -1,2 +1,6 @@
 # testrepo
-# test repositiory demo for Coursera Github Project
+
+## Editing the file
+
+It is markdown file in this repository.
+
